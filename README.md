@@ -25,6 +25,6 @@ This project is a RESTful API built using Node.js and Express.js. It provides fu
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/OsamaNuserat/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/OsamaNuserat/Upvote.git
+cd Upvote
 npm install
